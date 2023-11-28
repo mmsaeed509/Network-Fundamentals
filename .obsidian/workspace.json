@@ -148,6 +148,12 @@
   },
   "active": "f04506161c3b8f62",
   "lastOpenFiles": [
+    "slides/CCNA Session #04 Router Component - Router Modes - command to Facilitate work - login authentication - duplex & speed.pdf",
+    "slides/CCNA Session #03 OSI Model - TCP Model.pdf",
+    "slides/CCNA Session #02 Introduction (Network Component - VLSM Addressing - Summarization - ping ).pdf",
+    "slides/CCNA Session #01 Introduction (Network Component – Network Type – Network Topology ).pdf",
+    "slides",
+    "README.md",
     "src/UDP/udpBaseServer_2.java~",
     "out/production/NetworkFundamentals/UDP/udpBaseClient_2.class",
     "src/UDP/udpBaseClient_2.java~",
@@ -155,7 +161,6 @@
     "out/production/NetworkFundamentals/UDP",
     "out/production/NetworkFundamentals/Main.class",
     "out/production/NetworkFundamentals/README.md",
-    "src/Main.java~",
     "docs/answers.md"
   ]
 }
