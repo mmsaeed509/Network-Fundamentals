@@ -40,7 +40,7 @@ show running-config
 
 ```Bash
 exit 
-show running-config 
+service password-encryption 
 ```
 
 - View the password in the running configuration.  Is it encrypted?
